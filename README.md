@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Martyna.
 - 👀 I’m looking for a first job in programming world.
-- 🌱 I’m currently ended study programming.
+- 🌱 I currently ended study programming.
 - 💞️ I try to learn a lot and I like to participate in various programming meetings.
+- I will definately try to do what i like, develop my passion for working on computer.
