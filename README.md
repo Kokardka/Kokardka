@@ -8,4 +8,4 @@
 - 🌱 More of my small works is currently on my PC...
 -    I will definitely try to add some here.
     
-![Bez tytułu](https://user-images.githubusercontent.com/72028760/125331690-9876b900-e348-11eb-8527-2e0a8129151f.jpg)
+![Bez tytułu](https://user-images.githubusercontent.com/72028760/125332345-3f5b5500-e349-11eb-9a34-e0faacfd1ccf.jpg)
