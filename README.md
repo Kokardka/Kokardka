@@ -7,3 +7,5 @@
 -    I will definately try to do what i like, develop my passion for working on computer.
 - 🌱 More of my small works is currently on my PC...
 -    I will definitely try to add some here.
+    
+![Bez tytułu](https://user-images.githubusercontent.com/72028760/125331690-9876b900-e348-11eb-8527-2e0a8129151f.jpg)
