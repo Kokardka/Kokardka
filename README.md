@@ -2,9 +2,10 @@
 - 
 - 👀 I’m looking for a first job in programming world.
 -    I currently ended study programming.
+-    I hope someone can give me a chance.
 - 💞️ My passion for learning is growing all the time.
--    I try to learn a lot and I like to participate in various programming meetings.
--    I will definately try to do what i like, develop my passion for working on computer.
+-    I try to learn a lot and I like to take part in computer programming events for people from all the world.
+-    I will definately try to do what i like, develop my passion for working on a computer.
 - 🌱 More of my small works is currently on my PC...
 -    I will definitely try to add some here.
     
