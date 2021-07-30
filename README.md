@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Martyna.
 - 
 - 👀 I’m looking for a first job in a programming world.
+-    as a junior :) SQL Developer, Database Programmer or SQL Database Administrator with Python.
 -    I currently ended study programming and doing some courses.
 -    I hope someone can give me a chance.
 - 💞️ My passion for learning is growing all the time.
