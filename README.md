@@ -10,7 +10,7 @@
 - 🌱 More of my small works is currently on my PC...
 -    I will definitely try to add more here.
 
-currently I am working at data analysis using Python Pandas and Jupyter
+currently I am working at data analysis using Python Pandas and Anaconda Navigator / Jupyter
     
 ![Bez tytułu](https://user-images.githubusercontent.com/72028760/125332345-3f5b5500-e349-11eb-9a34-e0faacfd1ccf.jpg)
 
