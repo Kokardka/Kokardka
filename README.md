@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Martyna.
-- 
+👋 Hi, I’m Martyna.
+ 
 - 👀 I’m looking for a first job in a programming world
 -    as junior :) SQL Developer, Database Programmer, Data Analyst.
 -    I currently ended study programming and doing some SQL and Python courses.
