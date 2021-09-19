@@ -7,7 +7,7 @@
 -    I try to learn a lot when only have time.
 -    Especially when I am taking part in a programming events/meetups for people from all over the world.
 -    I will definately try to do what i like, develop my passion for working on a computer.
-- 🌱 More of my small works is currently on my PC...
+- 🌱 More of my small work is currently on my PC...
 -    I will definitely try to add more here.
 -    Anyways in my free time - not only programming, but also computer games and sport of course!
     
