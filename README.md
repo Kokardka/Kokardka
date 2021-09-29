@@ -1,14 +1,12 @@
 👋 Hi, I’m Martyna.
  
-- 👀 I’m looking for a first job/internship in a programming/IT world as junior.
--    I currently ended study programming and doing some SQL and Python 🐍 courses.
--    I hope someone can give me a chance.
+- 👀 I’m currently working with a first programming project as junior.
+-    I recently ended study programming and doing some SQL and Python 🐍 courses.
 - 💞️ My passion for learning is growing all the time.
--    I try to learn a lot when only have time.
--    Especially when I am taking part in a programming events/meetups for people from all over the world.
+-    I am often taking part in a programming events/meetups for people from all over the world.
 -    I will definately try to do what i like, develop my passion for working on a computer.
-- 🌱 More of my small work is currently on my PC...
--    I will definitely try to add more here.
+-    Here are some of my ideas to code something.
+- 🌱 More of my small worka are currently on my PC...
 -    Anyways in my free time - not only programming, but also computer games and sport of course!
     
 ![Bez tytułu](https://user-images.githubusercontent.com/72028760/125332345-3f5b5500-e349-11eb-9a34-e0faacfd1ccf.jpg)
