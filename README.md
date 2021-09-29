@@ -33,6 +33,7 @@ Python Pandas
 Anaconda Navigator
 MySQL
 NoSQL
+
 ---------------------------------------------------------------------------------------------------------
     
 ![Bez tytułu](https://user-images.githubusercontent.com/72028760/125332345-3f5b5500-e349-11eb-9a34-e0faacfd1ccf.jpg)
