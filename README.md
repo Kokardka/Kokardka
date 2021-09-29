@@ -11,28 +11,50 @@
 
 ---------------------------------------------------------------------------------------------------------
 Languages:
+
 SQL
+
 Python
+
 C++
+
 Java
+
 C#
 
+
 Tech skills:
+
 MS Office
+
 Visual Studio 2019
+
 Visual Studio Code
+
 SYBASE PowerDesigner
+
 StarUML
+
 MS SQL Server Management Studio
+
 CodeBlocks
+
 PyCharm
+
 IntelliJ
 
+
 In my free time:
+
 Python Pandas
+
 Anaconda Navigator
+
 MySQL
+
 NoSQL
+
+RDBMS
 
 ---------------------------------------------------------------------------------------------------------
     
