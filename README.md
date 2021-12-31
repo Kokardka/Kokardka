@@ -33,3 +33,5 @@ Python Pandas, Anaconda Navigator, MySQL, NoSQL, RDBMS
 ![DataStax Developers - Introduction to NoSQL Workshop - 2021-08-12](https://user-images.githubusercontent.com/72028760/129342972-33e7fc41-c9c2-4098-91fb-9c2bb888a1bf.png)
 
 ![assertion-aQx1ssrDRKyDz6Jp_uMG1Q](https://user-images.githubusercontent.com/72028760/131007475-5eba1612-9a66-4697-9dc5-a9ab599695bd.png)
+
+![1](https://user-images.githubusercontent.com/72028760/147819595-ddf0179f-9138-4e1a-9535-fcf712b43da7.jpg)
