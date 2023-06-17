@@ -1,11 +1,11 @@
 👋 Hi, I’m Martyna.
  
-- 👀 I’m currently working with a first programming project as junior.
+- 👀 I’m currently working as Service Delivery Analyst.
 -    I recently ended study programming and doing some SQL and Python 🐍 courses.
 - 📚 My passion for learning is growing all the time.
 -    I am often taking part in a programming events/meetups for people from all over the world.
--    I will definately try to do what i like, develop my passion for working on a computer.
-- 🦄 Here in repositories are some of my ideas to write.
+-    I will definately try to do what i like, develop my passion for working with a code.
+- 🦄 Here in the repositories are some of my ideas from past.
 - 🌱 More of my small works are currently on my PC...
 -    Anyways in my free time - not only programming, but also 🎮 computer games and 🎲 sport of course!
 
